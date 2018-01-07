@@ -1,0 +1,2 @@
+# No archive files should be tracked -- they'll be too big!
+*.zip
